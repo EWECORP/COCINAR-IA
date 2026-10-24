@@ -1,4 +1,4 @@
-﻿# Producción semanal: eficiencia y variedad
+# Producción semanal: eficiencia y variedad
 
 Diseño actualizado por el usuario el 23/10/2026. Reemplaza la propuesta de dos jornadas de un solo principal.
 
@@ -46,7 +46,7 @@ Puede permutarse según ganas; descontar las bolsas del inventario real. No mant
 
 ## Paralelismo y límites
 
-CUK: iniciar el braseado temprano. Horno: calabaza y albóndigas sólo si no conviene la Air Fryer. Air Fryer confirmada de 9 L y una canasta: primera opción para albóndigas, probar dos cargas de quince unidades separadas; si exige muchas cargas, elegir horno. Puede solaparse con calabaza en horno, pero exige retiros y controles. Modelo y superficie útil pendientes; no acreditar ahorro sin sumar cargas. Anafe: salsa de tomate durante presión; arroz mientras se cocinan albóndigas; pollo completo por tandas en wok después de atender finales de arroz/vacuno; polenta al terminar wok. Supermix: puré una vez asada la calabaza. Enfriado: cada componente o tanda al terminar, no todos juntos al final.
+CUK HD100: iniciar el braseado temprano, dorar/base en Saltear y primer ciclo de Carne de treinta minutos; comprobar terneza y prever un segundo ciclo de diez a quince minutos si hace falta, con sus tiempos de presurizacion y liberacion. Horno: calabaza y albóndigas sólo si no conviene la Air Fryer. Air Fryer Westinghouse AFR-1802 confirmada de 10 L y una canasta: primera opción para albóndigas, probar dos cargas de quince unidades separadas; si exige muchas cargas, elegir horno. Puede solaparse con calabaza en horno, pero exige retiros y controles. Modelo y superficie útil pendientes; no acreditar ahorro sin sumar cargas. Anafe: salsa de tomate durante presión; arroz mientras se cocinan albóndigas; pollo completo por tandas en wok después de atender finales de arroz/vacuno; polenta al terminar wok. Supermix: puré una vez asada la calabaza. Enfriado: cada componente o tanda al terminar, no todos juntos al final.
 
 Una persona tiene una sola tarea manual principal a la vez. Cocción pasiva sí puede superponerse con otra operación, con alarmas y pausas para controles. No confundir seis equipos disponibles con seis manos.
 

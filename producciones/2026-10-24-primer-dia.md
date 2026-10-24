@@ -1,14 +1,14 @@
-﻿# Producción variada — sábado 24 de octubre de 2026
+# Producción variada — sábado 24 de octubre de 2026
 
-Versión 3, 24/10/2026. Reemplaza la lista anterior de diez pollos con arroz y actualiza el pollo al wok elegido por el usuario. No sumar compras anteriores. Lote previsto P20261024; una persona; objetivo de una única jornada semanal para veinte porciones completas.
+Versión 4, 24/10/2026. Equipos actualizados: Air Fryer Westinghouse AFR-1802 de 10 L y CUK HD100 con tabla de funciones aportada. Conserva pollo al wok y veinte porciones variadas. No sumar compras anteriores. Lote previsto P20261024; una persona.
 
 ## Qué queda producido
 
 | Preparación | Porciones | Equipo y ficha |
 |---|---:|---|
 | Vacuno braseado con cebolla y pimentón | 6 | CUK; [VA-001](../recetas/VA-001-braseado-cebolla.md) |
-| Pollo oriental con verduras | 8 | Wok antiadherente de 30 cm, cuatro tandas iniciales de dos porciones; [PO-001 v0.2](../recetas/PO-001-pollo-oriental.md) contiene cantidades para ocho |
-| Albóndigas vacunas en tomate y verduras | 6 | Air Fryer 9 L/una canasta, prueba de dos cargas de quince unidades; horno si no caben; salsa en anafe; [AL-001](../recetas/AL-001-albondigas-tomate.md) |
+| Pollo oriental con verduras | 8 | Wok antiadherente de 30 cm, cuatro tandas iniciales de dos porciones; [PO-001 v0.3](../recetas/PO-001-pollo-oriental.md) contiene cantidades para ocho |
+| Albóndigas vacunas en tomate y verduras | 6 | Air Fryer Westinghouse AFR-1802 de 10 L/una canasta, prueba de dos cargas de quince unidades; horno si no caben; salsa en anafe; [AL-001](../recetas/AL-001-albondigas-tomate.md) |
 | Arroz largo fino | 8 | Anafe; [AR-001](../recetas/AR-001-arroz-largo-fino.md), usar 80 % de su receta de diez |
 | Puré de calabaza asada | 6 | Horno/Supermix; [CA-001](../recetas/CA-001-pure-calabaza.md) |
 | Polenta cremosa | 6 | Anafe; [PL-001](../recetas/PL-001-polenta-cremosa.md) |
@@ -66,7 +66,7 @@ Comprar verduras por peso; si el rendimiento limpio es menor, completar antes de
 
 ## Preparación agrupada: pesar y separar antes de cocinar
 
-Procesar con YELMO sólo cebolla, ajo y zanahoria destinados a bases; no hacer puré ni mezclar destinos sin pesar. Para pollo cortar juliana/bastones manualmente. Preparar las verduras antes de carnes crudas. Lavar manos, tabla y utensilios tras cada carne; no reutilizar el bol de crudo para alimento cocido sin lavar.
+Procesar con YELMO sólo cebolla, ajo y zanahoria destinados a bases; no hacer puré ni mezclar destinos sin pesar. Preparar primero las bases de vacuno y tomate según cronograma. Para el pollo oriental, cortar y marinar el pollo primero, refrigerarlo veinte minutos y aprovechar ese reposo para cortar sus verduras manualmente en juliana/bastones. Limpiar manos, tabla, cuchillo y superficie entre pollo crudo y verduras, o usar utensilios limpios separados. No reutilizar el bol de crudo para alimento cocido sin lavar.
 
 | Destino | Vegetales y mezcla listos |
 |---|---|
@@ -92,7 +92,7 @@ Ventana revisada con pollo al wok: unas cinco y media a seis y media horas trans
 | 0:55–1:15 | Preparar mezcla y formar treinta albóndigas; refrigerar hasta horno | CUK y salsa, con alarmas | Al estar calabaza tierna, retirarla: puede interrumpir formado |
 | 1:15–1:30 | Triturar calabaza, extender e iniciar enfriado; poner albóndigas en horno o Air Fryer según criterio inferior | CUK y salsa | Calabaza en estación de frío; no esperar principales |
 | 1:30–1:45 | Iniciar arroz en hornalla grande 2; cortar/marinar pollo y refrigerar veinte minutos; limpiar estación de crudo | Albóndigas en el equipo elegido; arroz según paquete; CUK | Si coinciden controles o Air Fryer requiere otra carga, desplazar cortes del pollo |
-| 1:45–2:00 | Comprobar albóndigas a 71 °C, pasar a tomate y enfriar inmediatamente en recipientes bajos | CUK: liberación según manual; arroz | Horno queda libre; conservar salsa caliente hasta integrar |
+| 1:45–2:00 | Aprovechar la marinada refrigerada para cortar verduras del pollo, interrumpiendo para comprobar albóndigas a 71 °C, pasarlas a tomate e iniciar enfriado | Pollo marinando en heladera; CUK: liberación según manual; arroz | Priorizar controles y enfriado; continuar corte después si no termina en esta ventana. Conservar salsa caliente hasta integrar |
 | 2:00–2:15 | Enfriar arroz apenas termine; comprobar terneza de vacuno y llevar a recipientes bajos; separar cuatro juegos de verduras y salsa de pollo | Frío de lotes anteriores; horno se apaga al terminar sus cargas | No abrir CUK con presión. Si el vacuno necesita más cocción, desplazar su final y enfriado |
 | 2:15–3:35 | Cocinar cuatro tandas completas de dos porciones en wok: verduras, pollo a 74 °C, salsa e integración; pasar cada tanda terminada a enfriado | Hornalla grande 1: wok; baños/heladera: lotes previos | Reservar 15–20 minutos por tanda. No formar albóndigas, hacer vacío o remover polenta en paralelo; reducir tamaño si el wok se abarrota |
 | 3:35–3:55 | Cocinar polenta con atención continua; extender para enfriar al terminar | Baños/heladera: tandas de pollo y lotes previos | Reusar olla de arroz lavada; mantener separadas tandas calientes y ya enfriadas |
@@ -104,13 +104,15 @@ El horno queda para calabaza y, si conviene por capacidad, albóndigas, con 210 
 
 ### Cuándo usar Air Fryer
 
-Equipo confirmado por el usuario: 9 litros, una canasta. Primera opción para albóndigas sin salsa: probar colocación de quince unidades separadas sin apilar, y repetir otra carga con las quince restantes. Los litros no garantizan superficie para quince. Si caben, la primera carga puede cocinarse mientras la calabaza sigue en horno; reservar la segunda en heladera hasta su turno. Ventana alternativa de arranque alrededor de 1:00, cuando termine el formado; cada control desplaza la tarea manual de ese momento. Adelantar el final sólo si se pueden atender retiros y enfriado sin descuidar calabaza/salsa. Pasar cada carga cocida a su parte de salsa en olla y enseguida al enfriado, nunca verter salsa en una cesta no diseñada para ello.
+Equipo confirmado por el usuario: Westinghouse AFR-1802, 10 litros, una canasta. Primera opción para albóndigas sin salsa: probar colocación de quince unidades separadas sin apilar, y repetir otra carga con las quince restantes. Los litros no garantizan superficie para quince. Si caben, la primera carga puede cocinarse mientras la calabaza sigue en horno; reservar la segunda en heladera hasta su turno. Ventana alternativa de arranque alrededor de 1:00, cuando termine el formado; cada control desplaza la tarea manual de ese momento. Adelantar el final sólo si se pueden atender retiros y enfriado sin descuidar calabaza/salsa. Pasar cada carga cocida a su parte de salsa en olla y enseguida al enfriado, nunca verter salsa en una cesta no diseñada para ello.
 
-Faltan modelo y superficie útil, por lo que no se garantiza número final de cargas ni tiempo de programa. Seguir la variante Air Fryer de AL-001 y manual del equipo; comprobar 71 °C en centro de varias albóndigas por carga. El ahorro se decide por suma de precalentamiento, todas las cargas, manipulación y limpieza frente a una tanda de horno. Si requiere tres o más cargas, mantener horno salvo que la prueba real justifique cambiarlo. No cocinar simultáneamente calabaza y albóndigas dentro de la única canasta.
+Modelo conocido: Westinghouse AFR-1802, 1800 W, rango declarado 80–200 °C. La receta propone 180 °C iniciales, dentro de ese rango, pero no se ha probado su tiempo real ni corresponde necesariamente a un preset. Falta superficie útil de canasta: 32 × 31,5 × 31,5 cm son medidas exteriores del aparato. Comprobar 71 °C en centro de varias albóndigas por carga. Comparar precalentamiento, todas las cargas, manipulación y limpieza frente a una tanda de horno. Si requiere tres o más cargas, mantener horno salvo que la prueba real justifique cambiarlo. No cocinar simultáneamente calabaza y albóndigas dentro de la única canasta.
 
 Segunda candidata: calabaza para un lote menor o remanente que entre sin amontonar, con punto de tenedor. Para los 1,8 kg de este plan el horno sigue como referencia hasta comprobar cuántas cargas necesita la Air Fryer. No repartir automáticamente calabaza entre ambos equipos: puede añadir limpieza y controles sin ahorrar trabajo.
 
-CUK tiene una sola carga de braseado: no se usa para arroz después. El anafe permite salsa de tomate y arroz simultáneos, escalonando integraciones. El wok requiere atención continua y una hornalla grande; la polenta espera hasta que termine. Las otras hornallas sirven para ajustes si hacen falta. Las planchas no tienen tarea asignada; la Air Fryer sí tiene una alternativa concreta condicionada a su capacidad.
+CUK HD100 tiene una sola carga de braseado: dorado y base en Saltear sin presión (hasta veinte minutos de ajuste por ciclo), primer ciclo de Carne a treinta minutos, liberación según manual y prueba de terneza; si sigue firme, segundo ciclo de Carne de diez a quince minutos y nueva liberación. No se usa para arroz después. El segundo ciclo puede desplazar su salida: contar calentamiento/presurización/liberación, no sólo minutos de pantalla. Atender la CUK e iniciar enfriado en cuanto la carne esté tierna, sin esperar deliberadamente a la fila de 2:00 del cronograma. Si termina antes, pausar la otra tarea para enfriar; si termina después, retrasar el wok antes que dejar un control sin atención. Puede evitarse la sartén de dorado al usar su propia cubeta.
+
+El anafe permite salsa de tomate y arroz simultáneos, escalonando integraciones. El wok requiere atención continua y una hornalla grande; polenta espera hasta que termine. Las otras hornallas sirven para ajustes si hacen falta. Las planchas no tienen tarea asignada; la Air Fryer tiene una alternativa concreta condicionada a su superficie útil.
 
 ## Puntos de decisión y enfriado
 
@@ -142,4 +144,4 @@ La condición TURBOSAVER aportada por el usuario es hasta quince minutos en agua
 
 Reservar prueba de calidad de cada componente después de su congelación real; las porciones de control se comen y se descuentan del stock. Registrar sabor, textura, salsa, minutos activos, duración completa, tandas, facilidad de frío/sellado y costo. No marcar recetas permanentes antes de repetir resultados. La primera mejora debe identificar el cuello de botella medido, manteniendo variedad.
 
-Referencias de seguridad ya utilizadas: [FoodSafety.gov, temperaturas](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures), [FSA, arroz](https://www.food.gov.uk/print/pdf/node/4286), [FDA Food Code 2022, enfriado](https://www.fda.gov/files/food/published/FDA-FoodCode2022-FullDocument-01182023_0.pdf). Gadnic publica varias CUK de 6 L y 1000 W: [HD100](https://www.gadnic.com.ar/sartenes-y-ollas/olla-electrica-a-presion-gadnic-hd100-coccion-instantanea-arrocera) y [VitaPress](https://www.gadnic.com.ar/sartenes-y-ollas/olla-a-presion-electrica-programable-cuk-by-gadnic-vitapress-6l-multifuncion-1000w-con-panel-tactil-timer); no asignar manual/botones hasta cotejar referencia del equipo.
+Referencias de seguridad ya utilizadas: [FoodSafety.gov, temperaturas](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures), [FSA, arroz](https://www.food.gov.uk/print/pdf/node/4286), [FDA Food Code 2022, enfriado](https://www.fda.gov/files/food/published/FDA-FoodCode2022-FullDocument-01182023_0.pdf). Modelo CUK HD100 y tabla de programas confirmados por usuario; funciones y especificaciones de ambos equipos en [equipamiento confirmado](../docs/05-equipamiento-confirmado.md). Las capturas de funciones no sustituyen las secciones de llenado/líquido mínimo/liberación del manual.

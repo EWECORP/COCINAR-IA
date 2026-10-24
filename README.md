@@ -39,9 +39,9 @@ Una comida puede incorporar un componente fresco sencillo si mejora textura y eq
 | Horno eléctrico empotrado | Braseados tapados, vegetales y albóndigas en bandeja | Confirmar tamaño de fuentes y rendimiento real |
 | Anafe eléctrico de cuatro hornallas: dos grandes y dos chicas, seis niveles | Dorado, salsas, guarniciones y baño de regeneración | Los niveles no equivalen a temperaturas; medir el agua y contemplar inercia térmica |
 | Ollas Essen | Guisos, guarniciones y baño de agua según tamaño y aptitud | Confirmar capacidades y compatibilidad con cada uso; no asignar dos tareas a una misma olla |
-| Olla a presión eléctrica CUK by Gadnic, multifunción, 6 L, 1000 W | Candidata para braseados de vacuno; funciona sin ocupar hornallas | Datos aportados por el usuario; confirmar manual y referencia exacta para límites de llenado, líquido mínimo, programas y liberación de presión; programar carga, presurización y despresurización |
+| Olla a presión eléctrica CUK by Gadnic HD100, 6 L, 1000 W, 12 funciones | Braseados de vacuno; Saltear para dorado y base en la misma cubeta | Modelo y tabla de programas aportados por usuario. Carne ajustable 1–30 min; verificar llenado, líquido mínimo y liberación en manual; contar presurización y posibles ciclos adicionales |
 | Selladora ZOLDA, 125 W, vacío declarado hasta −95 kPa | Porciones con salsa incluida; evaluar envasado frío con pulso y modo húmedo/extra húmedo | Funciones informadas por el usuario; límites para líquidos, bolsas compatibles y ciclos de descanso pendientes de manual |
-| Air Fryer de 9 L, una sola canasta | Primera opción para albóndigas si entran en dos cargas sin apilar; calabaza para lotes menores | Capacidad y canasta confirmadas por usuario; modelo y superficie útil pendientes. Comparar todas las cargas, atención y limpieza con horno; no asumir ahorro sólo por litros |
+| Air Fryer Westinghouse AFR-1802, 10 L, una canasta, 1800 W, 220 V | Primera opción para albóndigas si entran en dos cargas sin apilar; calabaza para lotes menores | Rango declarado 80–200 °C, 12 funciones automáticas, digital/táctil y ventana. Superficie útil pendiente; comparar todas las cargas, atención y limpieza con horno |
 | Wok antiadherente de 30 cm | Pollo oriental por tandas completas y salteados de verduras | Hornalla grande compatible, utensilios no metálicos y calor permitido por fabricante; no amontonar el lote semanal |
 | Microondas Samsung MG23F3K3TAK | Alternativa de regeneración si una preparación funciona mejor así | Usar recipiente apto; no asumir compatibilidad de la bolsa de vacío |
 | Plancha de hierro La Plancheta y plancha bífera | Dorado cuando superficie y carga lo justifiquen | Considerar hornallas ocupadas, humo y limpieza; no asignar automáticamente por tenerlas |
@@ -79,6 +79,7 @@ Guarniciones a ensayar: puré de calabaza de consistencia espesa, puré mixto de
 
 ## Documentos de trabajo
 
+- [Equipamiento confirmado: Westinghouse AFR-1802 y programas CUK HD100](docs/05-equipamiento-confirmado.md).
 - [Primera producción: sábado 24/10/2026, compras e instrucciones](producciones/2026-10-24-primer-dia.md).
 - Recetas de ensayo: [pollo oriental PO-001](recetas/PO-001-pollo-oriental.md), [vacuno braseado VA-001](recetas/VA-001-braseado-cebolla.md), [albóndigas AL-001](recetas/AL-001-albondigas-tomate.md), [arroz AR-001](recetas/AR-001-arroz-largo-fino.md), [puré CA-001](recetas/CA-001-pure-calabaza.md) y [polenta PL-001](recetas/PL-001-polenta-cremosa.md). La producción vigente indica cuántas porciones de cada ficha se elaboran; no sumar recetas completas sin aplicar su escala.
 - [Protocolo de frío y regeneración](docs/01-frio-vacio-regeneracion.md).
@@ -91,4 +92,4 @@ Guarniciones a ensayar: puré de calabaza de consistencia espesa, puré mixto de
 
 Confirmado: dos personas, veinte porciones individuales semanales, cada una con principal y acompañamiento; referencia de cuatro horas y freezer casi vacío. Preferencia actual: cocinar una vez por semana, obtener varios platos y acompañamientos y usar los equipos en paralelo. La variedad es requisito de diseño desde el primer lote.
 
-Pendiente: tamaño habitual de porción; presupuesto orientativo; alergias o restricciones adicionales; capacidad libre de heladera y capacidad de congelación del equipo; manual y referencia exacta de la olla CUK eléctrica de 6 L y 1000 W; manual de la ZOLDA para confirmar sistema, líquidos, bolsas y ciclos de uso; aptitud térmica de las bolsas; recipiente y método concreto de baño de agua. No fijar compras ni cronograma definitivo hasta dimensionar estos recursos.
+Pendiente: tamaño habitual de porción; presupuesto orientativo; alergias o restricciones adicionales; capacidad libre de heladera y capacidad de congelación del equipo; secciones de llenado, líquido mínimo y liberación del manual CUK HD100; superficie útil y manual de la Westinghouse AFR-1802; manual ZOLDA para líquidos, bolsas y ciclos; referencia exacta del rollo TURBOSAVER con condición térmica informada; recipiente y método de baño. El plan usa controles y alternativas explícitos mientras se completan estos datos.

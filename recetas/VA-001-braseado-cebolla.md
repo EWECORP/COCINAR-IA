@@ -1,6 +1,6 @@
 # VA-001 — Vacuno braseado con cebolla y pimentón
 
-Versión 0.1, 24/10/2026. Tipo A, en prueba. Objetivo: seis principales de sabor argentino, salsa propia de cebolla y zanahoria y cocción mayormente pasiva en CUK. No comparte la salsa de tomate de las albóndigas.
+Versión 0.2, 24/10/2026. Tipo A, en prueba. Objetivo: seis principales de sabor argentino, salsa propia de cebolla y zanahoria y cocción mayormente pasiva en CUK HD100. Actualiza programas según capturas del usuario. No comparte la salsa de tomate de las albóndigas.
 
 ## Ingredientes y rendimiento
 
@@ -10,16 +10,16 @@ Rendimiento previsto 1,9–2,2 kg cocidos, seis principales de unos 315–365 g 
 
 ## Equipos y tiempos
 
-CUK eléctrica 6 L/1000 W, sartén para dorar si no hay función apropiada, cuchillo, balanza y recipientes bajos. Tiempo activo estimado 30–40 minutos con envasado/limpieza atribuible; total hasta fin de cocción alrededor de 90–130 minutos; frío y envasado según plan integrado. Costos a completar con ticket.
+CUK eléctrica HD100 6 L/1000 W, función Saltear para dorado y rehogado en su cubeta; sartén sólo como alternativa si el dorado o capacidad del recipiente lo justifican. Cuchillo, balanza y recipientes bajos. Tiempo activo estimado 35–50 minutos con envasado/limpieza atribuible; total hasta fin de cocción alrededor de 100–150 minutos si requiere segundo ciclo, pendiente de medir; frío y envasado según plan integrado. Costos pendientes de ticket.
 
-La descripción «CUK 6 L 1000 W» corresponde a más de una referencia de Gadnic. No asignar botones, nivel de presión ni método de liberación de un modelo distinto. Consultar el manual del aparato: mínimo de líquido, llenado máximo y liberación autorizada. La receta sólo se hace a presión si cabe bajo su marca con todos los ingredientes y líquido; no intentar acomodarla comprimiendo comida por encima del límite.
+Modelo confirmado: HD100. La tabla aportada indica Saltear sin presión (12 min preestablecidos, ajuste 1–20 min) y Carne con presión (13 min preestablecidos, ajuste 1–30 min). No permite programar Carne a 45–55 min en un solo ciclo. Consultar las secciones de mínimo de líquido, llenado máximo y liberación autorizada del manual; las capturas no contienen esas indicaciones. La receta sólo se hace a presión si cabe bajo la marca con todos sus ingredientes y líquido. Ver [tabla de funciones](../docs/05-equipamiento-confirmado.md).
 
 ## Procedimiento
 
-1. Cortar verduras y separar sus cantidades de las de otras recetas. Cortar carne y secar superficie. Dorar con aceite en dos tandas breves en sartén apta, sin buscar cocinarla por dentro; reservar en la cubeta. Si la CUK tiene salteado y el manual lo admite, puede hacerse allí, evaluando capacidad y tiempo.
-2. Rehogar cebolla y zanahoria 4–5 minutos en la sartén, agregar ajo al final. Fuera del calor intenso incorporar pimentón y enseguida parte del agua para levantar los jugos sin quemar la especia. Pasar todo a la cubeta con carne, laurel, sal y líquido restante. Comprobar mínimo de líquido y máximo de llenado del manual; añadir agua si lo exige y registrar.
-3. Cerrar y operar según manual. Ventana culinaria inicial propuesta: 45–55 minutos de cocción a presión para los cubos, cuando el equipo permite ajustar el tiempo, más presurización y despresurización. Es estimación para ensayo, no programa verificado del modelo. Usar liberación natural según manual y no forzar tapa. No demorar el enfriado posterior manteniendo el guiso tibio.
-4. Abrir sólo cuando sea seguro y comprobar terneza con tenedor: debe ceder sin resistencia marcada. Si está firme, continuar cocción con el procedimiento del equipo y ajustar el cronograma. El tiempo no garantiza terneza. Si sobra líquido, reducir destapado de forma controlada o triturar parte de las verduras con líquido en recipiente apropiado y devolver; no triturar la carne. Rectificar sal al final.
+1. Cortar verduras y separar sus cantidades de las de otras recetas. Cortar carne y secar superficie. Seleccionar Saltear sin presión, operando según manual, y dorar con aceite por tandas que no abarroten el fondo; retirar cada tanda a un recipiente apropiado mientras termina el resto. No buscar cocinarla por dentro en esta etapa. El ajuste admite hasta veinte minutos por ciclo; si se agota antes del rehogado, continuar según el procedimiento del equipo o terminar la base en sartén. No atribuirle un tiempo ilimitado.
+2. En la misma cubeta, rehogar cebolla y zanahoria 4–5 minutos; agregar ajo al final. Reducir o apagar el calor antes de incorporar pimentón y enseguida parte del agua para levantar los jugos sin quemar la especia. Devolver carne y jugos con laurel, sal y líquido restante. Comprobar mínimo de líquido y máximo de llenado del manual; añadir agua si lo exige y registrar. No llevar al ciclo de presión con fondo quemado o salsa ya espesada.
+3. Cerrar y seleccionar Carne, ajustando a **30 minutos** dentro del rango de la tabla. Es un primer ensayo, no garantía de terneza para este corte/tamaño. Contar por separado calentamiento, presurización y liberación; seguir el procedimiento de despresurización del manual y no forzar tapa.
+4. Abrir sólo cuando sea seguro y comprobar terneza con tenedor: debe ceder sin resistencia marcada. Si sigue firme, comprobar líquido y continuar con otro ciclo de Carne de **10–15 minutos**, seguido de liberación autorizada y nueva comprobación. Repetir sólo si hace falta y registrar tiempo real; no cambiar a Vapor por el mero hecho de admitir sesenta minutos. El segundo ciclo también requiere calentamiento/presurización/liberación y puede desplazar el cronograma. Si sobra líquido cuando la carne ya está tierna, reducir sin presión mediante Saltear según manual, removiendo para que no se pegue, o triturar parte de las verduras con líquido en recipiente apropiado y devolver; no triturar la carne. Rectificar sal al final.
 5. Distribuir inmediatamente en recipientes bajos para enfriar según el protocolo. No esperar que salgan los demás platos. Distribuir carne y luego salsa equitativamente en seis porciones.
 
 ## Envase y regeneración
