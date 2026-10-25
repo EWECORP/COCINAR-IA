@@ -29,6 +29,12 @@ Air Fryer Westinghouse AFR-1802 de 10 L, olla de salsa, procesadora, cuchara, ba
 
 ## Envasado, regeneración y evaluación
 
+### Ejecución real R002 — 25/10/2026
+
+Eduardo produjo 42 albóndigas con salsa y almorzó con su hijo. Envasó cuatro bolsas de siete unidades y cuatro cucharadas de salsa por bolsa: 28 unidades almacenadas. Las catorce restantes no se envasaron; el reparto exacto del almuerzo no fue informado. Sabor de albóndigas y salsa muy bien valorado recién hecho. Cantidad de carne, peso por unidad, dosis exactas y método concreto de cocción no confirmados: no convertir este rendimiento a una modificación automática de la fórmula de 1,2 kg/treinta unidades.
+
+Destino freezer confirmado. Enfriado relatado de una hora en olla tapada en balcón frío, sin temperaturas: se documenta como hecho, no como procedimiento validado ni recomendado. Próxima repetición con recipientes bajos y frío controlado según protocolo. Pesos, salsa en gramos y regeneración pendientes; conservar estado en prueba. El horno sigue fuera de servicio para cualquier nueva ejecución. Ver [reporte R002](../registros/R002-segundo-ciclo-produccion.md).
+
 Envasar frío con salsa incluida; ubicar albóndigas en una capa. Su diámetro puede superar 2 cm: partirlas por la mitad tras cocción si se necesita una bolsa más fina, registrando presentación. No asumir que comparte tiempos con pollo o arroz. Procedimiento ZOLDA según manual; precongelar con salsa si el líquido impide sellado limpio.
 
 Descongelar en heladera. Baño 80–90 °C y máximo quince minutos de inmersión para el rollo confirmado por el usuario; verificar 74 °C en centro de albóndigas tras abrir bolsa de control. Si falla, completar inmediatamente en recipiente apto para microondas y medir de nuevo. No prolongar el baño. Tiempo activo diario estimado 3–5 minutos, a medir.

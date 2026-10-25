@@ -1,6 +1,6 @@
 # Producción variada — sábado 24 de octubre de 2026
 
-**PLAN PREVIO, NO EJECUTADO ÍNTEGRAMENTE.** Tras R001, el horno está averiado y las filas que dependen de él no son ejecutables. Se conserva esta versión para trazabilidad, no como lista de compras vigente para una continuación. Antes de reutilizar, replantear sin horno y descontar las cinco bolsas de pollo y diez guarniciones reportadas. Ver [reporte real](../registros/R001-primer-ciclo-produccion.md). Su fecha declarada es 14/10, pendiente de aclaración; no se identifica automáticamente con este plan del 24/10.
+**PLAN PREVIO, NO EJECUTADO ÍNTEGRAMENTE.** Tras R001, el horno está averiado y las filas que dependen de él no son ejecutables. Se conserva esta versión para trazabilidad, no como lista de compras vigente para una continuación. Antes de reutilizar, replantear sin horno y descontar las cinco bolsas de pollo y diez guarniciones reportadas. Ver [reporte real](../registros/R001-primer-ciclo-produccion.md) del 24/10/2026, fecha confirmada por el usuario. El reporte documenta lo efectivamente producido ese día; este plan conserva las cantidades previstas.
 
 Versión 4, 24/10/2026. Equipos actualizados: Air Fryer Westinghouse AFR-1802 de 10 L y CUK HD100 con tabla de funciones aportada. Conserva pollo al wok y veinte porciones variadas. No sumar compras anteriores. Lote previsto P20261024; una persona.
 

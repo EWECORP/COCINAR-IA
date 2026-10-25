@@ -4,7 +4,7 @@ Registro recibido el 24/10/2026. Cocinero: **Eduardo Ettlin**. Fuente: relato de
 
 ## Fecha y tiempos declarados
 
-- Fecha de producción declarada: **14/10/2026**, pendiente de confirmar porque el plan previo era para el 24/10. Se conserva el dato del usuario, sin corregirlo automáticamente.
+- Fecha de producción confirmada por Eduardo: **24/10/2026**. Corrige la fecha inicialmente informada. Envasado y entrada al freezer realizados ese mismo día según el reporte del ciclo.
 - Inicio: 14:30. Reunión alrededor de las 16:00, de aproximadamente una hora.
 - Preparación y cocina: 1 h 20 min.
 - Enfriado: aproximadamente 1 h, coincidente con la reunión.
@@ -73,4 +73,4 @@ No extrapolar linealmente este ciclo a veinte platos variados en cuatro horas: e
 
 **Revisión de conservación:** que esté frío al tacto no demuestra enfriado interno suficiente. La [guía USDA de sobras](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety) recomienda recipientes bajos y refrigeración pronta, dentro de dos horas, o una hora si el ambiente supera 32 °C. Si una preparación superó ese tiempo fuera del frío sin mantenimiento caliente seguro, debe descartarse; no intentar compensarlo con vacío, congelación o recalentamiento. Con los datos actuales no se puede declarar que ocurrió ese exceso ni certificar seguridad. Contar por preparación desde que termina, incluyendo esperas y envasado, no sólo la duración de la reunión.
 
-Inventario: conteo reportado al envasar, sin consumos informados; temperatura de enfriado y regeneración pendientes. Fecha declarada conservada y fecha exacta de congelación pendiente. No hay recetas permanentes aprobadas por este primer ciclo.
+Inventario: conteo reportado al envasar, sin consumos informados; temperatura de enfriado y regeneración pendientes. Fecha de producción y entrada al freezer: 24/10/2026, confirmada por el usuario. No hay recetas permanentes aprobadas por este primer ciclo.

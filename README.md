@@ -80,11 +80,14 @@ Guarniciones a ensayar: puré de calabaza de consistencia espesa, puré mixto de
 
 ## Documentos de trabajo
 
-- [Reporte real R001: primer ciclo de COCINA SALUDABLE AL VACÍO](registros/R001-primer-ciclo-produccion.md): quince bolsas reportadas, cinco principales y diez acompañamientos, destino freezer; fecha declarada 14/10/2026 pendiente de confirmar. Revisión de frío y regeneración pendiente.
+- [Reporte real R002: albóndigas y papines, 25/10/2026](registros/R002-segundo-ciclo-produccion.md): cuatro principales de siete albóndigas con salsa y una bolsa de papines al freezer. Stock acumulado reportado: nueve principales y once guarniciones si no hubo otros consumos; frío y regeneración pendientes.
+- [Consumibles y pedidos](registros/consumibles.md): cinco bolsas restantes utilizadas el 25/10; dos rollos de cinco metros pedidos, recepción prevista el 26/10, aún no confirmada.
+- [Reporte real R001: primer ciclo de COCINA SALUDABLE AL VACÍO](registros/R001-primer-ciclo-produccion.md): producción y entrada al freezer del 24/10/2026, fecha confirmada por el usuario; quince bolsas reportadas, cinco principales y diez acompañamientos. Revisión de frío y regeneración pendiente.
 - [Equipamiento confirmado: Westinghouse AFR-1802 y programas CUK HD100](docs/05-equipamiento-confirmado.md).
 - [Plan previo de producción: 24/10/2026](producciones/2026-10-24-primer-dia.md), conservado para comparar con lo realizado; requiere replanteo sin horno y descuento de stock real antes de reutilizar compras.
 - Recetas de ensayo: [pollo oriental PO-001](recetas/PO-001-pollo-oriental.md), [vacuno braseado VA-001](recetas/VA-001-braseado-cebolla.md), [albóndigas AL-001](recetas/AL-001-albondigas-tomate.md), [arroz AR-001](recetas/AR-001-arroz-largo-fino.md), [puré CA-001](recetas/CA-001-pure-calabaza.md) y [polenta PL-001](recetas/PL-001-polenta-cremosa.md). La producción vigente indica cuántas porciones de cada ficha se elaboran; no sumar recetas completas sin aplicar su escala.
 - Ejecución de aprovechamiento R001: [brócoli y coliflor con crema BR-001](recetas/BR-001-brocoli-coliflor-crema.md), cantidades sin estandarizar y excepción puntual de coliflor.
+- Guarnición observada en R002: [papines con paprika PA-001](recetas/PA-001-papines-paprika.md), fórmula y regeneración por validar; no se promete superficie crocante mediante baño.
 - [Protocolo de frío y regeneración](docs/01-frio-vacio-regeneracion.md).
 - [Ficha de receta](plantillas/receta.md).
 - [Plan de producción semanal](plantillas/produccion-semanal.md).
