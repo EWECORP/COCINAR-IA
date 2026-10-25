@@ -1,15 +1,36 @@
-# CA-001 — Puré de calabaza asada
+﻿# CA-001 — Puré de cabutia asada en Air Fryer
 
-Versión 0.1, 24/10/2026. Guarnición en prueba. Objetivo: seis bolsas de acompañamiento vegetal; horno al comienzo de la jornada y mínima agua añadida.
+Versión 0.2, 24/10/2026. Guarnición en prueba. Actualizada a partir de la ejecución R001: horno averiado, cabutia cocinada en Air Fryer. Sabor recién hecho valorado por Eduardo como muy bueno; freezer y regeneración pendientes. No permanente.
 
-Ingredientes: calabaza 1,8 kg limpia y sin semillas (comprar aproximadamente 2,5 kg y comprobar merma), aceite 15 ml, sal 3 g, pimienta a gusto. No incorporar crema ni agua de entrada.
+## Objetivo e ingredientes
 
-Equipos: horno, fuente amplia, Supermix en recipiente compatible, cuchillo, balanza y recipientes bajos. Extender cubos de 3–4 cm en fuente, mezclar con aceite y sal. Horno convencional inicial 210 °C, unos 40–60 minutos como ventana de inspección: debe aplastarse fácilmente con tenedor. Si la fuente queda llena en varias capas, repartir en dos o prever más tiempo; eso puede desplazar las albóndigas. No prometer una hora exacta sin conocer horno y fuentes.
+Acompañamiento vegetal asado, porción individual separada del principal. Ejecución observada: cabutia cortada por la mitad, ajo en polvo, sal, pimienta, paprika y aceite rociado; leche y manteca al terminar el puré. Sin pesos ni cantidades de lácteos reportados. Rindió seis bolsas, cuyo peso se desconoce.
 
-Triturar la calabaza asada con sus jugos concentrados, evitando añadir agua. Si tiene líquido libre excesivo, evaporarlo brevemente en olla antes del enfriado; registrar cambio. Probar sazón y extender enseguida en recipientes bajos para enfriar con hielo y heladera según protocolo. No esperar los principales.
+La fórmula previa proponía 1,8 kg de calabaza limpia, 15 ml de aceite y 3 g de sal, con rendimiento estimado de seis porciones: no son cantidades medidas de R001 ni una carga demostrada de la canasta. Antes de repetir en cantidad, pesar cabutia, pulpa cocida, leche y manteca; no atribuir seis bolsas de cualquier tamaño a una masa fija.
 
-Rendimiento estimado 1,35–1,55 kg, seis bolsas de unos 225–260 g. Pesar cocido y dividir por seis; no completar peso con agua. Tiempo activo estimado 20–30 minutos con envasado y limpieza atribuible; horno 40–60 minutos; total con enfriado/envasado según plan. Costo pendiente de compra.
+## Equipamiento y procedimiento observado
 
-Envasar frío en plano de 1,5 cm aproximadamente, una porción por bolsa; si asciende puré al sellado, precongelar firme antes de vacío según manual. Congelar según protocolo. Regeneración desde descongelado en heladera: baño 80–90 °C, máximo quince minutos de inmersión para rollo confirmado; medir 74 °C en centro de una bolsa de control. Si no llega, completar inmediatamente en recipiente apto para microondas, mezclar y medir. Puede requerir mezclar al servir por separación de agua. Tiempo activo diario previsto 1–3 minutos, no medido.
+Air Fryer Westinghouse AFR-1802 de 10 L/una canasta; cuchillo, pisapapas, recipiente y selladora. Balanza y termómetro para próximo ensayo; no se reportaron pesos o temperaturas centrales del primero.
 
-Mejores parejas: vacuno y albóndigas; con pollo oriental, evaluar el contraste dulce. Observaciones: no promete crocancia ni textura recién asada. Evaluación pendiente: sabor, humedad tras freezer, regeneración, facilidad, tiempo/resultado, costo, repetibilidad y versatilidad, 1–5 cada una. No permanente.
+1. Cortar cabutia por la mitad y condimentar con ajo en polvo, sal, pimienta, paprika y aceite rociado. Verificar que las piezas entren con circulación de aire; el relato no informa número de cargas.
+2. Tratamiento realizado en R001: 160 °C durante cuarenta minutos y luego 170 °C durante diez minutos. Es un dato observado, no garantía para todo tamaño o cantidad. Comprobar con tenedor que la pulpa esté tierna; seguir el manual para carga y circulación.
+3. Cuando se pueda manipular con seguridad, retirar pulpa y aplastar con pisapapas. Añadir pequeñas cantidades medidas de leche y manteca hasta textura deseada, registrando cantidades; no existe todavía dosis estandarizada.
+4. Para próxima ejecución, distribuir pronto en recipientes bajos y enfriar activamente según protocolo, sin esperar a temperatura ambiente dentro de la Air Fryer. En R001 quedó dentro durante la reunión y el puré se terminó al volver: se documenta como hecho, no como método de enfriado validado.
+
+## Rendimiento, tiempos, porcionado y vacío
+
+Real observado: seis bolsas; peso total, gramos por bolsa y espesor pendientes. Cincuenta minutos programados de Air Fryer según relato; tiempo activo de esta receta no aislado del ciclo compartido. R001 completo reportó 1 h 20 de preparación/cocina, 1 h de enfriado y 40 min de envasado, que también incluyó terminar el puré. No sumar esos bloques como tiempo exclusivo de calabaza. Costo pendiente.
+
+Pesar pulpa y repartir uniformemente. Envasar frío y extender a unos 1,5 cm como objetivo, anotando espesor real. Si el puré asciende al sellado, precongelar porción firme según manual ZOLDA. Bolsas TURBOSAVER aptas para el uso confirmado; en R001 fueron al freezer, sin ubicación exacta ni fecha de congelación verificadas.
+
+## Regeneración y acompañamientos
+
+Desde descongelado en heladera, ensayo en baño a 80–90 °C y máximo quince minutos de inmersión para el rollo confirmado por usuario. Verificar 74 °C en centro de bolsa de control. Si no llega, completar inmediatamente en recipiente apto para microondas, mezclar y medir; no superar límite térmico de bolsa. Puede liberar agua y requerir mezcla al servir; pendiente de ensayo. Trabajo diario activo estimado 1–3 minutos, no medido.
+
+Mejores combinaciones propuestas: vacuno braseado y albóndigas; pollo oriental como alternativa a evaluar por contraste dulce. No producidos todos esos principales en R001.
+
+## Evaluación final
+
+Buen sabor recién hecho según Eduardo. Sin puntajes numéricos ni prueba de freezer. Evaluar sabor, humedad, textura con leche/manteca, regeneración, facilidad de producción, tiempo/resultado, costo/calidad, repetibilidad y versatilidad según plantilla. Registrar masa por carga para decidir eficiencia de la Air Fryer. No declarar enfriado seguro por estar frío al tacto ni permanente por el primer resultado gastronómico.
+
+Reporte fuente: [R001](../registros/R001-primer-ciclo-produccion.md).

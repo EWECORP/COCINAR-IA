@@ -6,7 +6,7 @@ Base de trabajo acordada el 23 de octubre de 2026. Sistema doméstico de producc
 
 En orden: ahorrar tiempo, calidad gastronómica, alimentación saludable, variedad y optimización del trabajo semanal. Cada decisión se evalúa sobre el ciclo completo: compra, preparación, cocción, enfriado, envasado, freezer, regeneración y limpieza.
 
-Vacuna y pollo como proteínas principales; cerdo ocasional. Excluir pescado, cordero, garbanzos, coliflor, zapallito redondo, berenjena y salsa de hongos. Actualización del usuario: brócoli y calabacín (zucchini) permitidos. Se mantiene provisionalmente la exclusión del zapallito redondo, distinto del calabacín expresamente aceptado. Favorecer cocina argentina, italiana, mediterránea, francesa clásica y curries suaves con ingredientes de supermercados argentinos. Preferir preparaciones con salsa.
+Vacuna y pollo como proteínas principales; cerdo ocasional. Excluir pescado, cordero, garbanzos, coliflor, zapallito redondo, berenjena y salsa de hongos. Brócoli y calabacín (zucchini) permitidos. En R001 se usó coliflor por aprovechamiento: excepción registrada, sin levantar la exclusión general. Se mantiene provisionalmente la exclusión del zapallito redondo, distinto del calabacín expresamente aceptado. Favorecer cocina argentina, italiana, mediterránea, francesa clásica y curries suaves con ingredientes de supermercados argentinos. Preferir preparaciones con salsa.
 
 ## Arquitectura
 
@@ -36,7 +36,6 @@ Una comida puede incorporar un componente fresco sencillo si mejora textura y eq
 |---|---|---|
 | Procesadora YELMO PC-5800 | Picado en tanda de cebolla, morrón y otros vegetales | Confirmar capacidad útil; evitar triturar de más |
 | LILIANA Supermix de mano | Triturar salsas y puré de calabaza en recipiente compatible | No usar cuchilla como opción predeterminada para puré de papa: puede quedar gomoso |
-| Horno eléctrico empotrado | Braseados tapados, vegetales y albóndigas en bandeja | Confirmar tamaño de fuentes y rendimiento real |
 | Anafe eléctrico de cuatro hornallas: dos grandes y dos chicas, seis niveles | Dorado, salsas, guarniciones y baño de regeneración | Los niveles no equivalen a temperaturas; medir el agua y contemplar inercia térmica |
 | Ollas Essen | Guisos, guarniciones y baño de agua según tamaño y aptitud | Confirmar capacidades y compatibilidad con cada uso; no asignar dos tareas a una misma olla |
 | Olla a presión eléctrica CUK by Gadnic HD100, 6 L, 1000 W, 12 funciones | Braseados de vacuno; Saltear para dorado y base en la misma cubeta | Modelo y tabla de programas aportados por usuario. Carne ajustable 1–30 min; verificar llenado, líquido mínimo y liberación en manual; contar presurización y posibles ciclos adicionales |
@@ -52,6 +51,8 @@ Una comida puede incorporar un componente fresco sencillo si mejora textura y eq
 | Heladera Samsung Bespoke Flex Freezer Inverter, 328 L declarados | Refrigeración y congelación | 230 L heladera y 98 L freezer declarados; freezer casi vacío según el usuario; falta capacidad de congelación en kg/24 h y espacio libre en heladera |
 
 Corrección del usuario: no hay Mambo Cecotec. El anafe es eléctrico, no a gas. No planificar tareas con esos equipos anteriores.
+
+**Fuera de servicio:** horno eléctrico empotrado, averiado según el reporte R001 recibido el 24/10/2026. Queda retirado del equipo disponible hasta que el usuario confirme reparación. Los planes previos que lo usan se conservan como referencia histórica, no como secuencias ejecutables actuales. Air Fryer, anafe y CUK deberán repartirse las cocciones; no asignar tareas simultáneas a la única canasta.
 
 Selladora: datos aportados por el usuario, sin verificación independiente. Modelo informado «Zolda»; 125 W; tensión declarada 110–220 V; 50/60 Hz; vacío hasta −95 kPa; 39,4 × 20 × 10,7 cm; peso aproximado 2,55 kg. Pack: manguera para vacío externo, cinco bolsas de 20 × 30 cm, rollo de 28 × 300 cm y manual. La manguera no demuestra compatibilidad con líquidos ni identifica por sí sola el sistema de aspiración. Verificar alimentación en la placa/manual del aparato antes de usar: no interpretar el rango comercial como prueba de selección automática de tensión.
 
@@ -79,9 +80,11 @@ Guarniciones a ensayar: puré de calabaza de consistencia espesa, puré mixto de
 
 ## Documentos de trabajo
 
+- [Reporte real R001: primer ciclo de COCINA SALUDABLE AL VACÍO](registros/R001-primer-ciclo-produccion.md): quince bolsas reportadas, cinco principales y diez acompañamientos, destino freezer; fecha declarada 14/10/2026 pendiente de confirmar. Revisión de frío y regeneración pendiente.
 - [Equipamiento confirmado: Westinghouse AFR-1802 y programas CUK HD100](docs/05-equipamiento-confirmado.md).
-- [Primera producción: sábado 24/10/2026, compras e instrucciones](producciones/2026-10-24-primer-dia.md).
+- [Plan previo de producción: 24/10/2026](producciones/2026-10-24-primer-dia.md), conservado para comparar con lo realizado; requiere replanteo sin horno y descuento de stock real antes de reutilizar compras.
 - Recetas de ensayo: [pollo oriental PO-001](recetas/PO-001-pollo-oriental.md), [vacuno braseado VA-001](recetas/VA-001-braseado-cebolla.md), [albóndigas AL-001](recetas/AL-001-albondigas-tomate.md), [arroz AR-001](recetas/AR-001-arroz-largo-fino.md), [puré CA-001](recetas/CA-001-pure-calabaza.md) y [polenta PL-001](recetas/PL-001-polenta-cremosa.md). La producción vigente indica cuántas porciones de cada ficha se elaboran; no sumar recetas completas sin aplicar su escala.
+- Ejecución de aprovechamiento R001: [brócoli y coliflor con crema BR-001](recetas/BR-001-brocoli-coliflor-crema.md), cantidades sin estandarizar y excepción puntual de coliflor.
 - [Protocolo de frío y regeneración](docs/01-frio-vacio-regeneracion.md).
 - [Ficha de receta](plantillas/receta.md).
 - [Plan de producción semanal](plantillas/produccion-semanal.md).

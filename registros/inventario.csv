@@ -1,1 +1,4 @@
 lote,receta_id,version,tipo,fecha_coccion,fecha_congelacion,porciones_iniciales,porciones_disponibles,peso_cocido_g_por_bolsa,espesor_max_cm,ubicacion,objetivo_consumo_calidad,regeneracion_validada,observaciones
+R001,PO-001,ejecucion-R001,A,2026-10-14,,5,5,,,Freezer - ubicacion exacta pendiente,,no,Fecha declarada pendiente de confirmar; conteo al envasar sin consumos informados; dos pechugas sin peso; enfriado sin temperaturas; ver reporte R001
+R001,CA-001,ejecucion-R001,guarnicion,2026-10-14,,6,6,,,Freezer - ubicacion exacta pendiente,,no,Fecha declarada pendiente de confirmar; cabutia Air Fryer 160 C 40 min y 170 C 10 min; leche y manteca sin gramajes; enfriado sin temperaturas; ver reporte R001
+R001,BR-001,ejecucion-R001,guarnicion,2026-10-14,,4,4,,,Freezer - ubicacion exacta pendiente,,no,Fecha declarada pendiente de confirmar; brocoli y coliflor con crema; sin peso; excepcion puntual coliflor; enfriado sin temperaturas; ver reporte R001

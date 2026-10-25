@@ -69,8 +69,10 @@ Descongelar en heladera dentro de bandeja. Ensayar a 80–90 °C hasta quince mi
 
 ## Observaciones y evaluación
 
+Ejecución R001 reportada: dos pechugas de peso no informado rindieron cinco bolsas; marinada refrigerada mientras cortaba verduras, luego ajo/cebolla en wok, pollo, verduras y salsa. No se confirmó cantidad de tandas ni dosis de la ficha; se registra como ejecución observada, no como validación de v0.3. Enfriado y regeneración sin mediciones; ver [reporte](../registros/R001-primer-ciclo-produccion.md).
+
 El wok sustituye el horno para respetar la técnica elegida y liberar ese equipo. A cambio, el salteado exige atención y varias tandas: no ejecutarlo a la vez que formar albóndigas, remover polenta o envasar. Sí puede coincidir con presión o asado pasivos, vigilados mediante avisos y controles. El wok de 30 cm no es una olla de capacidad ilimitada: su fondo útil y el anafe mandan.
 
-La Air Fryer se evalúa para otras preparaciones secas del lote; no se añade como etapa extra de este pollo. Si el usuario prefiere acelerar otro día con horno, documentar una variante separada y sus tiempos en vez de volver a mezclar dos procedimientos.
+La Air Fryer se evalúa para otras preparaciones secas del lote; no se añade como etapa extra de este pollo. El horno está averiado y no es variante disponible. Si se recupera en el futuro, cualquier variante debe documentarse por separado.
 
 Puntuar 1–5 sabor, freezer, regeneración, facilidad de producción, tiempo/resultado, costo/calidad, repetibilidad y versatilidad. Registrar número real de tandas, tiempo de wok, jugosidad, agua de verduras, salsa, limpieza y conveniencia respecto al horno. No permanente hasta resultados repetibles con prueba real después del freezer.

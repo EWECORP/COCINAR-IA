@@ -1,5 +1,7 @@
 # Producción semanal: eficiencia y variedad
 
+**Actualización tras R001:** el menú y las cantidades siguientes son el objetivo del plan previo, no el stock producido. Horno fuera de servicio: la secuencia anterior que lo usa requiere replanteo; no ejecutarla tal cual. Producción real: cinco principales de pollo, seis purés de cabutia y cuatro guarniciones de brócoli/coliflor con crema, todas enviadas al freezer. Priorizar otro principal en la próxima reposición, aprovechando acompañamientos existentes. Ver [reporte R001](../registros/R001-primer-ciclo-produccion.md).
+
 Diseño actualizado por el usuario el 23/10/2026. Reemplaza la propuesta de dos jornadas de un solo principal.
 
 ## Resultado buscado

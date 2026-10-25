@@ -1,6 +1,10 @@
 # Equipamiento: especificaciones confirmadas por el usuario
 
-Actualización del 24/10/2026. Fuente: descripción y capturas aportadas por el usuario; no se han medido capacidades útiles ni verificado programas mediante una producción.
+Actualización del 24/10/2026. Fuente: descripción, capturas y reporte R001 del usuario. Capacidades útiles sin medir; distinguir los tratamientos relatados de un programa validado para cualquier carga.
+
+## Equipo fuera de servicio
+
+**Horno eléctrico empotrado averiado:** no disponible según R001. Se retira de toda nueva planificación hasta confirmación de reparación. No es alternativa de respaldo para albóndigas o calabaza mientras siga averiado.
 
 ## Air Fryer Westinghouse AFR-1802
 
@@ -22,7 +26,9 @@ Corrige el dato previo de 9 litros: son **10 litros y una sola canasta**.
 | Dimensiones exteriores | 32 cm alto × 31,5 cm ancho × 31,5 cm largo |
 | Accesorios incluidos | No |
 
-Las medidas exteriores no son medidas de la canasta: su superficie útil sigue pendiente. La propuesta de quince albóndigas por carga es una prueba de colocación, no un rendimiento demostrado por los 10 L. La receta parte de 180 °C como ajuste de ensayo dentro del rango declarado; no se atribuye a un preset de la marca. Cocinar hasta el punto medido y registrar tiempo por carga. Se mantiene horno como alternativa si requiere demasiadas cargas.
+Las medidas exteriores no son medidas de la canasta: su superficie útil sigue pendiente. La propuesta de quince albóndigas por carga es una prueba de colocación, no un rendimiento demostrado por los 10 L. La receta parte de 180 °C como ajuste de ensayo dentro del rango declarado; no se atribuye a un preset. Si requiere más cargas, contarlas en el cronograma o reducir tamaño de lote: el horno está averiado.
+
+Ejecución R001: cabutia cortada por la mitad, 40 min a 160 °C y 10 min a 170 °C, luego pulpa para puré. Cantidad, peso y número de cargas no informados; no extrapolar cincuenta minutos a 1,8 kg limpios u otra geometría. No usar la canasta como estación de enfriado pasivo en próximas producciones: retirar alimento y aplicar el protocolo de frío.
 
 ## Olla a presión CUK by Gadnic HD100
 
